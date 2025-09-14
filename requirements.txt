@@ -1,0 +1,6 @@
+PySide6
+Pillow
+ExifRead
+rawpy
+numpy
+Send2Trash
