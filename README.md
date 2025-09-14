@@ -26,6 +26,6 @@ useful features for photographers:
 
 ### Run from source
 ```bash
-git clone https://github.com/YOURNAME/FixPeek.git
-cd FixPeek
+git clone https://github.com/JJausF/fixpeek.git
+cd fixpeek
 python3 main.py
